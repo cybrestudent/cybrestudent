@@ -31,6 +31,3 @@ Here are some notable projects I've worked on:
 - **Active Directory User Management Tool (PowerShell)**: Created a PowerShell script to streamline user provisioning, deprovisioning, and management tasks in Active Directory environments.
 
 - **Network Scanner (Python)**: Built a network scanner tool in Python for discovering active hosts, open ports, and services running on a network, aiding in vulnerability assessment and network reconnaissance.
-
-## Contact
-
