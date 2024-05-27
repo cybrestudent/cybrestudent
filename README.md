@@ -4,7 +4,7 @@
 
 I am a seasoned IT and cybersecurity professional with over ten years of experience in the industry. My expertise lies in various domains including system administration, network security, and scripting. Currently, I am also enrolled in Cerro Coso Community College to further enhance my skills and knowledge in the field.
 
-<a href="https://linkedin.com/in/scottplude" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/scottplude" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## Skills
 
 ### Bash
