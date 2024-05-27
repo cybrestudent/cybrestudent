@@ -33,6 +33,7 @@ Here are some notable projects I've worked on:
 
 ## Contact
 
+<a href="https://linkedin.com/in/scottplude"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/scottplude/).
 
 Let's collaborate and make the digital world a safer place together!
